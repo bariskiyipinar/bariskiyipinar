@@ -11,8 +11,8 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/bariskypnr)
-[![website](./img/twitter-dark.svg)](https://twitter.com/bariskypnr)
+[![website]((https://github.com/bariskiyipinar/bariskiyipinar/blob/main/tw.jpg))](https://twitter.com/bariskypnr)
+[![website]((https://github.com/bariskiyipinar/bariskiyipinar/blob/main/tw.jpg))](https://twitter.com/bariskypnr)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/bariskypnr/))
 [![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/bariskypnr/))
