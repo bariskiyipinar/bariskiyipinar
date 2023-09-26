@@ -11,7 +11,7 @@
 ### Connect with me:
 
 
-[![website]((https://github.com/bariskiyipinar/bariskiyipinar/blob/main/tw.jpg))](https://twitter.com/bariskypnr)
+[![website](tw.png](https://twitter.com/bariskypnr)
 [![website]((https://github.com/bariskiyipinar/bariskiyipinar/blob/main/tw.jpg))](https://twitter.com/bariskypnr)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/bariskypnr/))
