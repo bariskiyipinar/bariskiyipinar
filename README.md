@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
+----------------------------------------------------------------------------------------------------------------------------
 ### Connect with me:
 
 
