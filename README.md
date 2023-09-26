@@ -14,7 +14,6 @@
 
 <a href="https://twitter.com/bariskypnr"><img src="tw.jpg" width="30px"></a>
 <a href="https://www.linkedin.com/in/bariskypnr"><img src="ln.png" width="30px"></a>
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/bariskypnr/))
 [![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/bariskypnr/))
 &nbsp;&nbsp;
