@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/bariskypnr"><img src="ins.jpg" width="30px"></a>
 
 ----------------------------------------------------------------------------------------------------------------------------
-<align="center"> <img height="250" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif"></align>
+ <br><br><br> <img height="250" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif">
 
 
 
