@@ -22,6 +22,7 @@
 <a href="https://www.instagram.com/bariskypnr"><img src="ins.jpg" width="30px"></a>
 
 ---
+
 # 💻 Tech Stack:
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -44,6 +45,9 @@
 
 ---
 
+<!-- Custom Horizontal Line -->
+<hr style="border: 1px solid #2b2b2b; margin: 40px 0;" />
+
 <p align="center">
- <img height="250" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif">
+  <img height="250" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif">
 </p>
