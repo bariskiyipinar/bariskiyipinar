@@ -43,8 +43,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bariskiyipinar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bariskiyipinar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 <hr style="border: 1px solid #2b2b2b; margin: 40px 0;" />
 
 <p align="center">
