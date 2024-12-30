@@ -45,7 +45,6 @@
 
 ---
 
-<!-- Custom Horizontal Line -->
 <hr style="border: 1px solid #2b2b2b; margin: 40px 0;" />
 
 <p align="center">
