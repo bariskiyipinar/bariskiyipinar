@@ -13,6 +13,7 @@
 - 👉🏼 gerçekliği
 - 👉🏼 değiştirin
 
+---
 
 ### Beni Takip Et 👇🏼
 
