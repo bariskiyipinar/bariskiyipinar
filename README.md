@@ -1,6 +1,23 @@
 
 ## Merhaba Ben Barış
 
+<h1>
+  <marquee behavior="scroll" direction="left" style="color: red; animation: colorChange 3s infinite;">
+    Merhaba Ben Barış
+  </marquee>
+</h1>
+
+<style>
+  @keyframes colorChange {
+    0% { color: red; }
+    25% { color: blue; }
+    50% { color: green; }
+    75% { color: orange; }
+    100% { color: red; }
+  }
+</style>
+
+
 - 👉🏼 Eğer
 - 👉🏼 gerçekler
 - 👉🏼 teorinize
