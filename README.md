@@ -24,7 +24,7 @@
 ---
 
 # 💻 Tech Stack:
-<hr style="border: 1px solid #2b2b2b; margin: 40px 0;" />
+
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -38,7 +38,7 @@
 <hr style="border: 1px solid #2b2b2b; margin: 40px 0;" />
 
 # 📊 GitHub Stats:
-<hr style="border: 1px solid #2b2b2b; margin: 40px 0;" />
+
 ![](https://github-readme-stats.vercel.app/api?username=bariskiyipinar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bariskiyipinar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bariskiyipinar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
