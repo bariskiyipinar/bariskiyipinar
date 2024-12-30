@@ -1,21 +1,12 @@
 
 ## Merhaba Ben Barış
 
-<h1>
-  <marquee behavior="scroll" direction="left" style="color: red; animation: colorChange 3s infinite;">
-    Merhaba Ben Barış
-  </marquee>
-</h1>
+## Merhaba Ben Barış
 
-<style>
-  @keyframes colorChange {
-    0% { color: red; }
-    25% { color: blue; }
-    50% { color: green; }
-    75% { color: orange; }
-    100% { color: red; }
-  }
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Merhaba+Ben+Barış" alt="Typing SVG" />
+</p>
+
 
 
 - 👉🏼 Eğer
