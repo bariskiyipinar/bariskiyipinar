@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=👋🏼+MERHABA+BEN+BARIŞ+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+MERHABA+BEN+BARI%C5%9E+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
