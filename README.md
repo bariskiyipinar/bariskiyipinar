@@ -49,3 +49,10 @@
 <p align="center">
   <img height="250" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif">
 </p>
+
+### 👀 Profil Görüntülenme Sayısı:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bariskiyipinar&label=Profile%20views&color=0e75b6&style=flat" alt="bariskiyipinar" />
+</p>
+
